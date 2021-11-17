@@ -1,0 +1,20 @@
+.menu{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: grey;
+    width: 100%;
+}
+.menuUl{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+li{
+    justify-content: space-between;
+    margin: 20px;
+    list-style: none;
+}
+h1{
+    text-align: center;
+}
